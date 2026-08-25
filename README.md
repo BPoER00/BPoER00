@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BPoER00">
+  <a href="https://github.com/Manu-OK-code">
     <img
-      src="https://komarev.com/ghpvc/?username=BPoER00&label=Profile%20Views&color=C300FF&style=flat"
+      src="https://komarev.com/ghpvc/?username=Manu-OK-code&label=Profile%20Views&color=C300FF&style=flat"
       alt="Profile Views"
     />
   </a>
