@@ -2,17 +2,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C300FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Software+Engineer;Cloud+%26+Backend+Enthusiast;Building+modern+software"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C300FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;System+Engineer;Cloud+%26+Backend+Enthusiast;Building+modern+software"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
   <code>manu-ok</code>
-  &nbsp;·&nbsp;
-  <a href="https://dev.manu-ok.uk">
-    dev.manu-ok.uk
-  </a>
 </p>
 
 <p align="center">
