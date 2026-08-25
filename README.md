@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/manu-ok">
     <img
-      src="https://komarev.com/ghpvc/?username=manu-ok&label=Profile%20Views&color=C300FF&style=flat"
+      src="https://komarev.com/ghpvc/?username=BPoER00&label=Profile%20Views&color=C300FF&style=flat"
       alt="Profile Views"
     />
   </a>
