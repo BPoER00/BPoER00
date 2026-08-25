@@ -1,7 +1,10 @@
 # Bryan Emanuel Paz Ramirez
 
 <p align="center">
-  <strong>Full-Stack Developer · Software Engineer · Builder</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Software+Engineer;Cloud+%26+Backend+Enthusiast;Building+modern+software"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -14,8 +17,43 @@
 
 <p align="center">
   <a href="https://github.com/manu-ok">
-    <img src="https://komarev.com/ghpvc/?username=manu-ok&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img
+      src="https://komarev.com/ghpvc/?username=manu-ok&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
   </a>
+</p>
+
+<p align="center">
+
+<a href="https://dev.manu-ok.uk">
+  <img
+    src="https://img.shields.io/badge/Website-dev.manu--ok.uk-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Website"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/bryan-emanuel-paz-ramirez-a801513a2/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Bryan%20Emanuel%20Paz%20Ramirez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://candidato.gt.computrabajo.com/candidate/cv/edit/?idapp=3&f=FEE939887FF3D46C">
+  <img
+    src="https://img.shields.io/badge/Computrabajo-CV-00AEEF?style=for-the-badge"
+    alt="Computrabajo CV"
+  />
+</a>
+
+<a href="https://github.com/manu-ok">
+  <img
+    src="https://img.shields.io/badge/GitHub-manu--ok-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
 </p>
 
 ---
@@ -29,6 +67,17 @@ I enjoy working across the entire stack — from designing interfaces and
 APIs to databases, authentication, infrastructure and deployment.
 
 > **Build. Break. Learn. Improve. Repeat.**
+
+---
+
+## 💻 Current Session
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=6B7280&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+manu-ok;%24+role+%E2%86%92+Full-Stack+Developer;%24+focus+%E2%86%92+Web+%C2%B7+Cloud+%C2%B7+APIs+%C2%B7+Infrastructure+%C2%B7+AI;%24+status+%E2%86%92+%E2%97%8F+Building"
+    alt="Current Session"
+  />
+</p>
 
 ---
 
