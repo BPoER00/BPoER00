@@ -1,8 +1,15 @@
-# Manu-O K
+# Bryan Emanuel Paz Ramirez
 
 <p align="center">
   <strong>Full-Stack Developer · Software Engineer · Builder</strong>
-  <strong>https://dev.manu-ok.uk</strong>
+</p>
+
+<p align="center">
+  <code>manu-ok</code>
+  &nbsp;·&nbsp;
+  <a href="https://dev.manu-ok.uk">
+    dev.manu-ok.uk
+  </a>
 </p>
 
 <p align="center">
@@ -13,7 +20,7 @@
 
 ---
 
-## 👋 Hey, I'm Manu-O K
+## 👋 Hey, I'm Bryan
 
 I'm a **Full-Stack Developer** focused on building modern web applications,
 backend services, integrations and cloud-based systems.
