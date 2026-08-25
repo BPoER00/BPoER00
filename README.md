@@ -1,14 +1,33 @@
-# 👋 Hey, I'm Bryan
+# Manu-O K
 
-### Full-Stack Developer · Software Engineer · Builder
+<p align="center">
+  <strong>Full-Stack Developer · Software Engineer · Builder</strong>
+  <strong>https://dev.manu-ok.uk</strong>
+</p>
 
-I build modern web applications, APIs, integrations and cloud-based systems.
+<p align="center">
+  <a href="https://github.com/manu-ok">
+    <img src="https://komarev.com/ghpvc/?username=manu-ok&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 👋 Hey, I'm Manu-O K
 
-### 🎨 Frontend
+I'm a **Full-Stack Developer** focused on building modern web applications,
+backend services, integrations and cloud-based systems.
+
+I enjoy working across the entire stack — from designing interfaces and
+APIs to databases, authentication, infrastructure and deployment.
+
+> **Build. Break. Learn. Improve. Repeat.**
+
+---
+
+# 🧠 Core Stack
+
+## 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -18,22 +37,20 @@ I build modern web applications, APIs, integrations and cloud-based systems.
   <img src="https://img.shields.io/badge/Preact-673AB8?style=for-the-badge&logo=preact&logoColor=white"/>
 </p>
 
-**Frontend**
+**What I work with**
 
-- React
-- Next.js
-- Nuxt
-- Astro
-- Preact
-- Responsive UI / UX
-- Component Architecture
-- SSR / SSG / SPA
-- API Integration
-- Design Systems
+- Component-driven architecture
+- Responsive & adaptive interfaces
+- SPA / SSR / SSG
+- Design systems
+- API-driven applications
+- Performance optimization
+- Reusable UI components
+- Modern web architecture
 
 ---
 
-### ⚙️ Backend
+## ⚙️ Backend & Programming
 
 <p>
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
@@ -45,24 +62,21 @@ I build modern web applications, APIs, integrations and cloud-based systems.
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
-**Backend**
+**What I build**
 
-- Bun
-- Deno
-- Node.js
-- Laravel
-- Spring
-- Python
-- Rust
 - REST APIs
-- Authentication & Authorization
-- Session Management
-- Background Jobs
-- API Architecture
+- Backend services
+- Authentication systems
+- Session management
+- API integrations
+- Background processing
+- Caching
+- Service-oriented architectures
+- Scalable backend systems
 
 ---
 
-### 🗄️ Databases
+# 🗄️ Data & Storage
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -73,72 +87,81 @@ I build modern web applications, APIs, integrations and cloud-based systems.
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-**Databases**
+### Database Experience
 
 - PostgreSQL
 - MySQL
 - SQL Server
-- Redis
 - MongoDB
+- Redis
 - SQLite
-- Data Modeling
-- Query Optimization
+- Data modeling
 - Indexing
-- Migrations
-- Caching
+- Query optimization
+- Database migrations
+- Caching strategies
 
 ---
 
-### ☁️ Cloud & Infrastructure
+# ☁️ Cloud & Infrastructure
 
 <p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-**Infrastructure**
+### Infrastructure
 
+- AWS
+- Cloudflare
 - Docker
 - Podman
-- Cloudflare
-- AWS
-- Containers
-- Cloud Deployments
+- Containerization
+- Cloud deployments
 - DNS
 - SSL / TLS
 - CDN
-- Edge Computing
-- Infrastructure Configuration
+- Edge computing
+- Environment management
+- Production infrastructure
 
 ---
 
-### 🔐 Authentication & Integrations
+# 🔐 Authentication & Integrations
 
 <p>
   <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API-005571?style=for-the-badge"/>
 </p>
 
-**Integrations**
+### Authentication
 
 - Auth0
-- Twilio
 - OAuth 2.0
 - OpenID Connect
+- JWT
+- Session-based authentication
+- Authorization
+- Secure cookies
+- API security
+
+### Integrations
+
+- Twilio
 - REST APIs
 - Webhooks
 - Third-party APIs
-- API Authentication
-- Session-based Authentication
-- Secure Cookies
+- External services
+- API authentication
+- Event-driven integrations
 
 ---
 
-### 🤖 AI & Development Agents
+# 🤖 AI & Development Agents
 
 <p>
   <img src="https://img.shields.io/badge/Kilo_Code-111111?style=for-the-badge"/>
@@ -146,7 +169,9 @@ I build modern web applications, APIs, integrations and cloud-based systems.
   <img src="https://img.shields.io/badge/MiniMax-111111?style=for-the-badge"/>
 </p>
 
-**AI-assisted Development**
+I use AI-assisted development tools as part of my engineering workflow.
+
+### AI-assisted Development
 
 - Kilo Code
 - OpenAI Codex
@@ -156,86 +181,24 @@ I build modern web applications, APIs, integrations and cloud-based systems.
 - Refactoring
 - Debugging
 - Architecture exploration
+- Technical research
 - Developer automation
 
 ---
 
-## 🛠️ Engineering Skills
+# 🛠️ Engineering
 
 ### Architecture
 
-- Modular Architecture
-- Clean Code
-- Reusable Components
-- API-first Development
-- Service-oriented Architecture
-- Scalable Systems
-- Monorepos
-
-### Development
-
-- Git
-- GitHub
-- REST APIs
-- JSON
-- Webhooks
-- Environment Configuration
-- CI/CD
-- Testing
-- Debugging
-- Performance Optimization
-
-### DevOps
-
-- Docker
-- Podman
-- Cloud Infrastructure
-- Containerization
-- Deployment Automation
-- DNS
-- SSL/TLS
-- Monitoring
-- Environment Management
-
----
-
-## 🚀 What I Build
-
-I enjoy building complete products from the interface to the infrastructure behind them.
-
 ```text
-        ┌─────────────────────────┐
-        │        Frontend         │
-        │ React · Next · Nuxt     │
-        │ Astro · Preact          │
-        └────────────┬────────────┘
-                     │
-                     ▼
-        ┌─────────────────────────┐
-        │         Backend         │
-        │ Bun · Node · Deno       │
-        │ Rust · Python · Spring  │
-        │ Laravel                 │
-        └────────────┬────────────┘
-                     │
-                     ▼
-        ┌─────────────────────────┐
-        │        Services         │
-        │ Auth · Twilio · APIs    │
-        │ Webhooks · Integrations │
-        └────────────┬────────────┘
-                     │
-                     ▼
-        ┌─────────────────────────┐
-        │        Databases        │
-        │ PostgreSQL · MySQL      │
-        │ Redis · MongoDB · SQL   │
-        │ Server · SQLite         │
-        └────────────┬────────────┘
-                     │
-                     ▼
-        ┌─────────────────────────┐
-        │    Cloud & Infrastructure│
-        │ AWS · Cloudflare        │
-        │ Docker · Podman         │
-        └─────────────────────────┘
+Frontend
+   ↓
+APIs & Services
+   ↓
+Authentication
+   ↓
+Business Logic
+   ↓
+Databases & Caching
+   ↓
+Cloud Infrastructure
