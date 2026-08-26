@@ -49,11 +49,15 @@
 
 ## 👋 Hey, I'm Bryan
 
-I'm a **Full-Stack Developer** focused on building modern web applications,
-backend services, integrations and cloud-based systems.
+I'm a **Full-Stack Developer & Systems Engineer** focused on building
+modern web applications, backend services, APIs and cloud-based systems.
 
-I enjoy working across the entire stack — from designing interfaces and
-APIs to databases, authentication, infrastructure and deployment.
+I work across the entire software lifecycle — from frontend architecture
+and backend development to databases, authentication, integrations,
+infrastructure and deployment.
+
+My focus is on building software that is **scalable, maintainable,
+secure and reliable**.
 
 > **Build. Break. Learn. Improve. Repeat.**
 
@@ -70,6 +74,79 @@ APIs to databases, authentication, infrastructure and deployment.
 
 ---
 
+# 🚀 What I Build
+
+I focus on designing and building modern, scalable and maintainable
+software systems across the entire development lifecycle.
+
+### 🌐 Web Applications
+
+- Modern responsive web applications
+- SPA / SSR / SSG architectures
+- Component-driven interfaces
+- Design systems
+- API-driven applications
+- Reusable UI components
+- Responsive & adaptive interfaces
+- Performance-focused frontend architecture
+
+### ⚙️ Backend Systems
+
+- RESTful APIs
+- Backend services
+- Authentication & authorization
+- Session management
+- Business logic
+- Data processing
+- Background services
+- Caching systems
+- Service-oriented architectures
+- Scalable backend systems
+- API integrations
+- Automation
+
+### ☁️ Cloud & Infrastructure
+
+- Cloud-based applications
+- Containerized services
+- AWS infrastructure
+- Cloudflare services
+- DNS & SSL/TLS
+- CDN & edge infrastructure
+- Production deployments
+- Environment management
+- Infrastructure configuration
+- Deployment workflows
+
+### 🔐 Security & Authentication
+
+- OAuth 2.0
+- OpenID Connect
+- JWT
+- Session-based authentication
+- Two-factor authentication (2FA)
+- Secure cookies
+- API security
+- Authorization & access control
+- Authentication flows
+- Secure API integrations
+
+### 🏗️ Software Engineering
+
+- System architecture
+- Database design
+- API design
+- Scalable application architecture
+- Integration design
+- Performance optimization
+- Refactoring
+- Debugging
+- Maintainable code
+- Reusable architecture
+- Technical problem solving
+
+---
+
 # 🧠 Technology & Tools
 
 ## 🎨 Frontend & Web
@@ -81,6 +158,10 @@ APIs to databases, authentication, infrastructure and deployment.
   <img src="https://img.shields.io/badge/Astro-C300FF?style=for-the-badge&logo=astro&logoColor=white"/>
   <img src="https://img.shields.io/badge/Preact-C300FF?style=for-the-badge&logo=preact&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-C300FF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-C300FF?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-C300FF?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-C300FF?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe_Experience_Manager-C300FF?style=for-the-badge&logo=adobe&logoColor=white"/>
 </p>
 
 ### What I work with
@@ -91,6 +172,10 @@ APIs to databases, authentication, infrastructure and deployment.
 - Astro
 - Preact
 - Vite
+- Bootstrap
+- Tailwind CSS
+- WordPress
+- Adobe Experience Manager (AEM)
 - Component-driven architecture
 - Responsive & adaptive interfaces
 - SPA / SSR / SSG
@@ -108,6 +193,8 @@ APIs to databases, authentication, infrastructure and deployment.
   <img src="https://img.shields.io/badge/Bun-C300FF?style=for-the-badge&logo=bun&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deno-C300FF?style=for-the-badge&logo=deno&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-C300FF?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-C300FF?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-C300FF?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-C300FF?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-C300FF?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-C300FF?style=for-the-badge&logo=python&logoColor=white"/>
@@ -120,6 +207,7 @@ APIs to databases, authentication, infrastructure and deployment.
 - Backend services
 - Authentication systems
 - Session management
+- Multi-factor authentication (2FA)
 - API integrations
 - Background processing
 - Caching
@@ -183,6 +271,33 @@ APIs to databases, authentication, infrastructure and deployment.
 - Environment management
 - Production infrastructure
 - Deployment workflows
+- Infrastructure configuration
+
+---
+
+# 🔄 DevOps & CI/CD
+
+<p>
+  <img src="https://img.shields.io/badge/Git-C300FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-C300FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-C300FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-C300FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### DevOps
+
+- Git
+- GitHub
+- CI/CD
+- Automated deployments
+- Deployment automation
+- Environment management
+- Docker
+- Containerization
+- Cloud deployments
+- Production infrastructure
+- DNS & SSL/TLS
+- Monitoring & troubleshooting
 
 ---
 
@@ -193,6 +308,8 @@ APIs to databases, authentication, infrastructure and deployment.
   <img src="https://img.shields.io/badge/Twilio-C300FF?style=for-the-badge&logo=twilio&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth-C300FF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenID-C300FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-C300FF?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/2FA-C300FF?style=for-the-badge&logo=authy&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-C300FF?style=for-the-badge&logoColor=white"/>
 </p>
 
@@ -203,10 +320,12 @@ APIs to databases, authentication, infrastructure and deployment.
 - OpenID Connect
 - JWT
 - Session-based authentication
+- Two-factor authentication (2FA)
 - Authorization
 - Secure cookies
 - API security
 - Authentication flows
+- Access control
 
 ### Integrations
 
@@ -218,6 +337,43 @@ APIs to databases, authentication, infrastructure and deployment.
 - API authentication
 - Event-driven integrations
 - Service integrations
+- Automation
+
+---
+
+# 🧪 Testing & Code Quality
+
+### Testing
+
+- Unit testing
+- Integration testing
+- API testing
+- End-to-end testing
+- Error handling
+- Debugging
+- Code reviews
+- Refactoring
+- Performance optimization
+- Maintainable code
+- Reusable components
+- Clean architecture principles
+
+---
+
+# 🔒 Security
+
+- Authentication & authorization
+- OAuth 2.0
+- OpenID Connect
+- JWT
+- Session-based authentication
+- Two-factor authentication (2FA)
+- Secure cookies
+- API security
+- Access control
+- Secrets & environment management
+- SSL / TLS
+- Secure API integrations
 
 ---
 
@@ -247,6 +403,18 @@ I use AI-assisted development tools as part of my engineering workflow.
 
 ---
 
+# 🧰 Developer Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-C300FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-C300FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-C300FF?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-C300FF?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-C300FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
 # 📋 Productivity & Project Management
 
 <p>
@@ -270,19 +438,25 @@ projects, workflows, tasks and development processes.
 - Automations
 - Project tracking
 
-### Development Workflow
+---
+
+# 🔄 Development Workflow
 
 ```text
 Idea
   ↓
 Planning
   ↓
+Architecture
+  ↓
 Development
   ↓
 Testing
   ↓
-Review
+Code Review
   ↓
 Deployment
   ↓
-Done
+Monitoring
+  ↓
+Improve
